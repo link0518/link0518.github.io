@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>咕涌</title>
+  
+  <subtitle>紫毛毛虫咕涌咕涌</subtitle>
+  <link href="https://link0518.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://link0518.github.io/"/>
+  <updated>2024-01-31T00:40:46.364Z</updated>
+  <id>https://link0518.github.io/</id>
+  
+  <author>
+    <name>咕涌</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试2</title>
+    <link href="https://link0518.github.io/2024/01/31/%E6%B5%8B%E8%AF%952/"/>
+    <id>https://link0518.github.io/2024/01/31/%E6%B5%8B%E8%AF%952/</id>
+    <published>2024-01-31T00:40:46.000Z</published>
+    <updated>2024-01-31T00:40:46.364Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
